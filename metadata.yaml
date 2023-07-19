@@ -1,0 +1,36 @@
+_repo: The-manufacture-of-earth-colours-b-With-thirty-one-illustrations_71219
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Salter, Charles
+    gutenberg_agent_id: '56126'
+    url: http://www.gutenberg.org/2009/agents/56126
+creator:
+  author:
+    agent_name: Bersch, Dr. Josef
+    gutenberg_agent_id: '56124'
+    url: http://www.gutenberg.org/2009/agents/56124
+  editor:
+    agent_name: Bersch, Dr. Wilhelm
+    gutenberg_agent_id: '56125'
+    url: http://www.gutenberg.org/2009/agents/56125
+description: ''
+gutenberg_issued: '2023-07-18'
+identifiers:
+  gutenberg: '71219'
+language: en
+pgterms:marc904: https://archive.org/details/manufactureofear00bersrich
+pgterms:marc905: 20210807112426bersch
+pgterms:marc906: '1921'
+pgterms:marc907: GB
+production_note: Charlene Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aUnited Kingdom :$bScott, Greenwood & Son, $c1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The manufacture of earth colours : $b With thirty-one illustrations'
+url: http://www.gutenberg.org/ebooks/71219
