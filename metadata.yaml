@@ -5,6 +5,9 @@ contributor:
     agent_name: Salter, Charles
     gutenberg_agent_id: '56126'
     url: http://www.gutenberg.org/2009/agents/56126
+covers:
+- cover_type: archival
+  image_path: 71219-h/images/cover.jpg
 creator:
   author:
     agent_name: Bersch, Dr. Josef
@@ -15,6 +18,8 @@ creator:
     gutenberg_agent_id: '56125'
     url: http://www.gutenberg.org/2009/agents/56125
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71219#The-manufacture-of-earth-colours-b-With-thirty-one-illustrations
 gutenberg_issued: '2023-07-18'
 identifiers:
   gutenberg: '71219'
